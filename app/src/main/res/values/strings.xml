@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnboardingApp</string>
+
+    <string name="user_name_fragment_title">Your Name</string>
+    <string name="birth_date_fragment_title">When were you born</string>
+    <string name="birth_date_placeholder_title">Tap to select</string>
+    <string name="birth_country_fragment_title">Where were you born</string>
+
+    <string name="user_summary_title">User Summary</string>
+    <string name="user_summary_username">User Name</string>
+    <string name="user_summary_birth_date">Birth Date</string>
+    <string name="user_summary_birth_country">Birth Country</string>
+
+    <string name="birthdate_string">"%d/%d/%d"</string>
+    <string name="title_activity_user_summary">UserSummary</string>
+</resources>

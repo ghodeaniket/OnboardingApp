@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BirthDateFragmentBackgroundColor"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/birth_date_fragment_title"
+        android:textColor="@color/FragmentTitleColor"
+        android:textSize="34dp" />
+
+
+    <TextView
+        android:id="@+id/select_birth_date_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/birth_date_placeholder_title"
+        android:textColor="@color/FragmentTextColor"
+        android:textSize="24dp" />
+</LinearLayout>

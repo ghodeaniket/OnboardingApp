@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="FragmentTitleColor">#F3B393</color>
+    <color name="FragmentTextColor">#F09D88</color>
+    <color name="NameFragmentBackgroundColor">#2B4C8E</color>
+    <color name="BirthDateFragmentBackgroundColor">#283759</color>
+    <color name="BirthCountryFragmentBackgroundColor">#325D7F</color>
+</resources>
